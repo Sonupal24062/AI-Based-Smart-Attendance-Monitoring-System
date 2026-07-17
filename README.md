@@ -73,18 +73,6 @@ The project includes student registration, automatic student ID generation, QR c
 
 
 
----
 
-## 👨‍💻 Developer
-
-**Sonu Pal**
-
-B.Tech in Information Technology
-
-Python | OpenCV | Artificial Intelligence | Machine Learning
-
----
-
-⭐ If you like this project, don't forget to star this repository.
 
 
