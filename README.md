@@ -40,3 +40,51 @@ The project includes student registration, automatic student ID generation, QR c
 - OpenPyXL
 - PyQRCode
 - Haar Cascade Classifier
+
+
+
+
+## 📸 Project Screenshots
+
+### Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+###  Register Student
+
+![Register student](screenshots/register_student.png)
+
+### Student Registered
+
+![Student Registered](screenshots/student_registered.png.jpg)
+
+###  Dataset Collection
+
+![Dataset Collectio](screenshots/dataset_collection.png.jpg)
+
+### Face Recognition
+
+![Face Recognition](screenshots/face_recognition.png.jpg)
+
+
+###  Attendence Report
+![Attendence Report](screenshots/attendence_report.png.jpg)
+
+
+
+
+---
+
+## 👨‍💻 Developer
+
+**Sonu Pal**
+
+B.Tech in Information Technology
+
+Python | OpenCV | Artificial Intelligence | Machine Learning
+
+---
+
+⭐ If you like this project, don't forget to star this repository.
+
+
