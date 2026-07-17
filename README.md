@@ -56,19 +56,19 @@ The project includes student registration, automatic student ID generation, QR c
 
 ### Student Registered
 
-![Student Registered](screenshots/student_registered.png.jpg)
+![Student Registered](screenshots/student_registered.png)
 
 ###  Dataset Collection
 
-![Dataset Collectio](screenshots/dataset_collection.png.jpg)
+![Dataset Collectio](screenshots/dataset_collection.png)
 
 ### Face Recognition
 
-![Face Recognition](screenshots/face_recognition.png.jpg)
+![Face Recognition](screenshots/face_recognition.png)
 
 
 ###  Attendence Report
-![Attendence Report](screenshots/attendence_report.png.jpg)
+![Attendance Report](screenshots/attendance_report.png)
 
 
 
